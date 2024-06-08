@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftonmoy-Org%2Ftonmoy-Org&psig=AOvVaw1p-IbmZBZ7I_xrhO7n4hRr&ust=1717964377322000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjC95rqzIYDFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm Harsh Tandon</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
